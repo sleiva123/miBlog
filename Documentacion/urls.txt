@@ -1,0 +1,2 @@
+subir el codigo a la web: https://app.netlify.com/drop/eloquent-montalcini-40bb69
+validador de html5: https://validator.w3.org
