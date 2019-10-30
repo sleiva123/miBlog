@@ -1,0 +1,21 @@
+div{
+    padding: 15px;
+}
+
+.col1{
+    float: left;
+    max-width: 600px;
+    max-height: 600px;
+}
+
+.col2{
+    float: left;
+    max-width: 500px;
+    max-height: 600px;
+}
+
+.col3{
+    float: left;
+    max-width: 500px;
+}
+
